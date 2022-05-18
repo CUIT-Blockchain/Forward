@@ -30,6 +30,6 @@ The rules we need to follow :
 
 
 
-Any problem please create a issue for discussion. 
+Any problem please create an issue for discussion. 
 
 Note: we don't strictly constrain the repository only blockchain! Any aspect to enhance our skills for development is welcome too.
