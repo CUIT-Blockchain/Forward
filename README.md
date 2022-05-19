@@ -16,7 +16,7 @@ The rules we need to follow :
     git clone https://github.com/CUIT-Blockchain/Forward.git
     ```
 
-- Make a new branch whose format is `feature/***`
+- Make a new branch whose format is `feature/***`，update for `update/***`, fix for `fix/***`
 
   - if you want to contribute to the evm aspect of Ethereum, just  like:
 
